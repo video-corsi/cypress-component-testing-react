@@ -22,7 +22,7 @@ npm run e2e
 
 ### How to write a test
 
-Update `pages/*.tsx` and write your tests in `cypress/e2e/*.cy.ts`
+Write your components in `src/component/*.tsx` and your tests in `cypress/component/*.cy.ts`
 
 
 
